@@ -1,0 +1,14 @@
+/home/luis/Source/dsr/AppConHilos3/obj/Debug/net8.0/AppConHilos3.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Source/dsr/AppConHilos3/obj/Debug/net8.0/AppConHilos3.AssemblyInfoInputs.cache
+/home/luis/Source/dsr/AppConHilos3/obj/Debug/net8.0/AppConHilos3.AssemblyInfo.cs
+/home/luis/Source/dsr/AppConHilos3/obj/Debug/net8.0/AppConHilos3.csproj.CoreCompileInputs.cache
+/home/luis/Source/dsr/AppConHilos3/bin/Debug/net8.0/AppConHilos3
+/home/luis/Source/dsr/AppConHilos3/bin/Debug/net8.0/AppConHilos3.deps.json
+/home/luis/Source/dsr/AppConHilos3/bin/Debug/net8.0/AppConHilos3.runtimeconfig.json
+/home/luis/Source/dsr/AppConHilos3/bin/Debug/net8.0/AppConHilos3.dll
+/home/luis/Source/dsr/AppConHilos3/bin/Debug/net8.0/AppConHilos3.pdb
+/home/luis/Source/dsr/AppConHilos3/obj/Debug/net8.0/AppConHilos3.dll
+/home/luis/Source/dsr/AppConHilos3/obj/Debug/net8.0/refint/AppConHilos3.dll
+/home/luis/Source/dsr/AppConHilos3/obj/Debug/net8.0/AppConHilos3.pdb
+/home/luis/Source/dsr/AppConHilos3/obj/Debug/net8.0/AppConHilos3.genruntimeconfig.cache
+/home/luis/Source/dsr/AppConHilos3/obj/Debug/net8.0/ref/AppConHilos3.dll
